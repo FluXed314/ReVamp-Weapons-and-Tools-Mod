@@ -64,7 +64,7 @@ public class BlockPurifyingFurnace extends CustomMachine implements ITileEntityP
 	{
 		if(!worldIn.isRemote) 
 		{
-			playerIn.openGui(Main.instance, Reference.GUI_SMELTING_FURNACE, worldIn, pos.getX(), pos.getY(), pos.getZ());
+			playerIn.openGui(Main.instance, Reference.GUI_PURIFYING_FURNACE, worldIn, pos.getX(), pos.getY(), pos.getZ());
 		}
 		return true;
 	}
