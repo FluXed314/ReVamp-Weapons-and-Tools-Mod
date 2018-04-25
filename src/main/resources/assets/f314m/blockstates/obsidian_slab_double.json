@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "f314m:obsidian_block_ingot" },
+        "half=top": { "model": "f314m:obsidian_block_ingot" }
+    }
+}

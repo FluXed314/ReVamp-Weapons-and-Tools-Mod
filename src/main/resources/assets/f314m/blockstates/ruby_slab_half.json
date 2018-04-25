@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "f314m:ruby_slab_bottom" },
+        "half=top": { "model": "f314m:ruby_slab_top" }
+    }
+}

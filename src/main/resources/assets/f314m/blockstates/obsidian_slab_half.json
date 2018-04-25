@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "f314m:obsidian_slab_bottom" },
+        "half=top": { "model": "f314m:obsidian_slab_top" }
+    }
+}
