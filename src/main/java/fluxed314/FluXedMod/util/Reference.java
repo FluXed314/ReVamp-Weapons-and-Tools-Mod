@@ -13,6 +13,6 @@ public class Reference {
 	public static final int ENTITY_CREEPER_INVIS = 316;
 	
 	
-	public static final int GUI_SMELTING_FURNACE = 0;
+	public static final int GUI_PURIFYING_FURNACE = 0;
 	
 }
