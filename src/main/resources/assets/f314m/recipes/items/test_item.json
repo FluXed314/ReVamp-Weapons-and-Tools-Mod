@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "f314m:test_block"
+        }
+    },
+    
+    "result": 
+    {
+        "item": "f314m:test_item",
+        "count": 9
+    }
+}

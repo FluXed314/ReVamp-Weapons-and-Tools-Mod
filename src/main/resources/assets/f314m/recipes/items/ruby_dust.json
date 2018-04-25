@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    
+    "ingredients":
+    [
+        {
+            "item": "f314m:ruby_gem"
+        },
+        {
+            "item": "f314m:ruby_gem"
+        }
+    ],
+    
+    "result": 
+    {
+        "item": "f314m:ruby_dust",
+        "count": 9
+    }
+}

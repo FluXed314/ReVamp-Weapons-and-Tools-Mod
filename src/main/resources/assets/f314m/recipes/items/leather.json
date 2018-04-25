@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "sls"
+    ],
+    
+    "key":
+    {
+        "l":
+        {
+            "item": "minecraft:leather"
+        },
+        "s":
+        {
+            "item": "minecraft:string"
+        }
+    },
+    
+    "result": 
+    {
+        "item": "f314m:leather_stitched",
+        "count": 1
+    }
+}

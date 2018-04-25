@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "f314m:obsidian_block_ingot"
+        }
+    },
+    
+    "result": 
+    {
+        "item": "f314m:obsidian_ingot",
+        "count": 9
+    }
+}
