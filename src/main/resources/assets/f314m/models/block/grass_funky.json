@@ -1,0 +1,11 @@
+{
+    "parent": "block/grass",
+    "textures":
+    {
+        "particle": "f314m:blocks/dirt",
+        "bottom": "f314m:blocks/dirt",
+        "top": "f314m:blocks/grass_funky",
+        "side": "f314m:blocks/grass_funky_side",
+        "overlay": "f314m:blocks/grass_funky_side"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "f314m:blocks/tin_block",
+        "top": "f314m:blocks/tin_block",
+        "side": "f314m:blocks/tin_block"
+    }
+}
