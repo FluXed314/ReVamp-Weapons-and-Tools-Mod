@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "ggg",
+  "ggg",
+  "ggg"
+  ],
+  
+  "key":
+  {
+    "g":
+    {
+        "item": "f314m:ruby_gem"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:ruby_block"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "TTT",
+  "TTT",
+  "TTT"
+  ],
+  
+  "key":
+  {
+    "T":
+    {
+        "item": "f314m:test_item"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:test_block"
+  }
+}
