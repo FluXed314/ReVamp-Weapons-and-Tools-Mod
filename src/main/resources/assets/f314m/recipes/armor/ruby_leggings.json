@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "ggg",
+  "gLg",
+  "g g"
+  ],
+  
+  "key":
+  {
+    "g":
+    {
+        "item": "f314m:ruby_gem"
+    },
+    "L":
+    {
+        "item": "f314m:leather_leggings"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:ruby_leggings"
+  }
+}

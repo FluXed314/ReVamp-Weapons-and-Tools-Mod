@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "i i",
+  "i i"
+  ],
+  
+  "key":
+  {
+    "i":
+    {
+        "item": "f314m:leather_stitched"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:leather_boots"
+  }
+}

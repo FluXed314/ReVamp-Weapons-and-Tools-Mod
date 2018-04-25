@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "iLi",
+  "i i"
+  ],
+  
+  "key":
+  {
+    "i":
+    {
+        "item": "f314m:copper_ingot"
+    },
+    "L":
+    {
+        "item": "f314m:leather_boots"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:copper_boots"
+  }
+}
