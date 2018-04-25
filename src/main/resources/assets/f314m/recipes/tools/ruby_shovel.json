@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "g",
+  "s",
+  "s"
+  ],
+  
+  "key":
+  {
+    "g":
+    {
+        "item": "f314m:ruby_gem"
+    },
+    "s":
+    {
+        "item": "minecraft:stick"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:ruby_shovel"
+  }
+}

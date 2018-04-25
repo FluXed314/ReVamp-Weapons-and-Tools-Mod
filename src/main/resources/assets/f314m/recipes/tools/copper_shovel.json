@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  
+  "pattern":
+  [
+  "i",
+  "s",
+  "s"
+  ],
+  
+  "key":
+  {
+    "i":
+    {
+        "item": "f314m:copper_ingot"
+    },
+    "s":
+    {
+        "item": "minecraft:stick"
+    }
+  },
+  
+  "result":
+  {
+    "item": "f314m:copper_shovel"
+  }
+}
